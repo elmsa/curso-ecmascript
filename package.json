@@ -1,0 +1,19 @@
+{
+  "name": "curso-ecma-script",
+  "version": "1.0.0",
+  "description": "desarrollando con emac-script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "emacscript"
+  ],
+  "author": "Elmer Sandoval Acosta <elmersandoval@@outlook.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
